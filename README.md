@@ -8,4 +8,4 @@ This README.md file is analogous to README.Rmd file, this file explains how all 
 
 *run_analysis.R* script consists of the actual code to tidy up the source data specified in the course project. *data* folder consists of all the source data in text files, *run_analysis.R* reads the relevant tet files in the *data* folder
 
-second independent tidy set created is stored in *ind_tiy_set.txt* and *ind_tidy_set.csv* files 
+second independent tidy set created is stored in *ind_tidy_set.txt* and *ind_tidy_set.csv* files 
