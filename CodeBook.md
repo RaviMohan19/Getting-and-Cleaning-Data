@@ -16,7 +16,8 @@ The data from the above URL is used as the source, the data consists of *Human A
 * Goal 1: Tidy the data set Merge the train and test data
 * Goal 2: extract only the measurements on the mean and standard deviation for each measurement
 * Goal 3: label the data set with descriptive variable names
-* Goal 4: name the activities in the data set by using descriptive activity names * Goal 5: create a second, independent tidy data set with the average of each variable for each activity and each subject
+* Goal 4: name the activities in the data set by using descriptive activity names 
+* Goal 5: create a second, independent tidy data set with the average of each variable for each activity and each subject
 
 The above mentioned *tasks/goals* are met, it is observed that source data consists of various text files categorized as training and test.Training Data an Test Data are both read for analysis. Training data is read and stored in the following *variables*
 
